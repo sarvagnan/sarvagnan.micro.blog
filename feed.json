@@ -1,0 +1,80 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Sarvagnan's Blog",
+	"icon": "https://micro.blog/sarvagnan/avatar.jpg",
+	"home_page_url": "https://sarvagnan.micro.blog/",
+	"feed_url": "https://sarvagnan.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://sarvagnan.micro.blog/2020/08/03/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250236968\">The Relentless Moon</a> by Mary Robinette Kowal 📚</p>\n",
+				"content_text": "Finished reading: [The Relentless Moon](https://micro.blog/books/9781250236968) by Mary Robinette Kowal 📚\n",
+				"date_published": "2020-08-03T09:51:33+05:30",
+				"url": "https://sarvagnan.micro.blog/2020/08/03/finished-reading-the.html",
+				"tags": ["fiction","good"]
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2020/08/02/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780765398550\">The Perfect Assassin</a> by K.A. Doore 📚</p>\n",
+				"content_text": "Finished reading: [The Perfect Assassin](https://micro.blog/books/9780765398550) by K.A. Doore 📚\n",
+				"date_published": "2020-08-02T13:50:37+05:30",
+				"url": "https://sarvagnan.micro.blog/2020/08/02/finished-reading-the.html",
+				"tags": ["fiction"]
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2020/08/01/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780765387394\">The Angel of the Crows</a> by Katherine Addison 📚</p>\n",
+				"content_text": "Finished reading: [The Angel of the Crows](https://micro.blog/books/9780765387394) by Katherine Addison 📚\n",
+				"date_published": "2020-08-01T18:21:55+05:30",
+				"url": "https://sarvagnan.micro.blog/2020/08/01/finished-reading-the.html",
+				"tags": ["fiction"]
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2020/07/29/finished-reading-a.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780451472984\">A Brightness Long Ago</a> by Guy Gavriel Kay 📚</p>\n",
+				"content_text": "Finished reading: [A Brightness Long Ago](https://micro.blog/books/9780451472984) by Guy Gavriel Kay 📚\n",
+				"date_published": "2020-07-29T21:30:30+05:30",
+				"url": "https://sarvagnan.micro.blog/2020/07/29/finished-reading-a.html",
+				"tags": ["fiction","good"]
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2020/07/23/dates-cake.html",
+				
+				"content_html": "<p>Dates cake</p>\n\n<p><img src=\"uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Dates cake\n\n<img src=\"uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-07-23T00:23:27+05:30",
+				"url": "https://sarvagnan.micro.blog/2020/07/23/dates-cake.html"
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2020/07/22/thought-on-first.html",
+				
+				"content_html": "<p>Thought on first forays through the site: the discover feed is so nice. I&rsquo;d prefer using this as a place for capture like Dave Winer with scripting news. Blogging hasn&rsquo;t stuck for me yet, but we&rsquo;ll see how this goes.</p>\n",
+				"content_text": "Thought on first forays through the site: the discover feed is so nice. I'd prefer using this as a place for capture like Dave Winer with scripting news. Blogging hasn't stuck for me yet, but we'll see how this goes.\n",
+				"date_published": "2020-07-22T00:34:00+05:30",
+				"url": "https://sarvagnan.micro.blog/2020/07/22/thought-on-first.html"
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2020/07/22/sponge-cake.html",
+				
+				"content_html": "<p>Sponge cake</p>\n\n<p><img src=\"uploads/2020/d43e5223a1.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Sponge cake\n\n<img src=\"uploads/2020/d43e5223a1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-07-22T00:25:00+05:30",
+				"url": "https://sarvagnan.micro.blog/2020/07/22/sponge-cake.html",
+				"tags": ["Baking"]
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2020/07/18/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780062868930\">The Guest List</a> 📚</p>\n",
+				"content_text": "Currently reading: [The Guest List](https://micro.blog/books/9780062868930) 📚\n",
+				"date_published": "2020-07-18T18:23:11+05:30",
+				"url": "https://sarvagnan.micro.blog/2020/07/18/currently-reading-the.html",
+				"tags": ["fiction"]
+			}
+	]
+}
