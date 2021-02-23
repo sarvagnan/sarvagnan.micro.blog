@@ -2,17 +2,76 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Sarvagnan's Blog",
 	"icon": "https://micro.blog/sarvagnan/avatar.jpg",
-	"home_page_url": "https://sarvagnan.micro.blog/",
-	"feed_url": "https://sarvagnan.micro.blog/feed.json",
+	"home_page_url": "https://blog.sarvagnan.com/",
+	"feed_url": "https://blog.sarvagnan.com/feed.json",
 	"items": [
 		
+			{
+				"id": "http://sarvagnan.micro.blog/2021/02/23/an-idea-a.html",
+				
+				"content_html": "<p>An idea a friend and I came up with today (most probably others have had this as well). In India, we have a lot of social welfare schemes that employ unskilled people in manual labour. We also require a lot of semi-skilled workers in other settings, like helping staff in schools. These roles are currently not filled or are being done by other employees as an additional task (in the school example, the teacher takes care of everything).The former is guaranteed labour for a short period of time while the latter is more or less long term government employment with associated regular pay. The government has records for the former. Why not try and get the people who avail the social scheme into the semi-skilled employment sector? They are both government managed and the government has the records to identify people that can work in this area. Just something to consider.</p>\n",
+				"content_text": "An idea a friend and I came up with today (most probably others have had this as well). In India, we have a lot of social welfare schemes that employ unskilled people in manual labour. We also require a lot of semi-skilled workers in other settings, like helping staff in schools. These roles are currently not filled or are being done by other employees as an additional task (in the school example, the teacher takes care of everything).The former is guaranteed labour for a short period of time while the latter is more or less long term government employment with associated regular pay. The government has records for the former. Why not try and get the people who avail the social scheme into the semi-skilled employment sector? They are both government managed and the government has the records to identify people that can work in this area. Just something to consider.\n",
+				"date_published": "2021-02-23T22:24:26+05:30",
+				"url": "https://blog.sarvagnan.com/2021/02/23/an-idea-a.html"
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2020/08/10/media-diet-and.html",
+				"title": "Media Diet - 08 and 09 August 2020 🍿📺",
+				"content_html": "<p>Spent Saturday night and Sunday drowning out my internal monologue with a movie and two tv shows. This is the first time in a while that I&rsquo;ve actually sat down and binged movies and TV. I think I&rsquo;ve become a little jaded when it comes to this form of media; whatever time was previously spent on this is now devoted mostly to books.</p>\n\n<p><strong>Birds of Prey</strong>:</p>\n\n<p>TL;DR: Meh</p>\n\n<p>Longer Version: Whenever I watch movies of the superhero variety, it seems like they are becoming more and more like games. There&rsquo;s an exploration phase where you build out the story, then you meet the big boss, you have a team, then there is a boss fight. The seams are also readily visible; visualizing the movie as a game, you can tell where the cut scenes would be. Birds of Prey readily fit into this mould.</p>\n\n<p><strong>Fleabag</strong>:</p>\n\n<p>TL;DR: Excellent</p>\n\n<p>Longer Version: If someone asks for the perfect TV show, point them to this. Everything about this is amazing; the humour, each beat, the editing, the storyline. I had this on my watchlist for ages (see aforementioned jadedness) and then spent the day kicking myself for not watching it earlier. A few highlights: the names given to characters, breaking the fourth wall and then breaking that mechanic too, the brokenness of the main character and how that&rsquo;s approached; I could go on and on. Watch this show and revel in its greatness.</p>\n\n<p><strong>Killing Eve</strong>:</p>\n\n<p>TL;DR: S1: Good, S2 &amp; 3: Fluctuates between meh and good</p>\n\n<p>Longer Version: I started watching this because it&rsquo;s in the Phoebe Waller-Bridge universe, and you can see her fingerprints all over season one. The storytelling is tight but there a lot of elements to the plot that seem extraneous. The extraneous parts were multiplied in S2 and S3, with the worst parts of S2 devolving into a buddy cop drama. When it works, it is a great show with the chemistry between the main leads really shining through. When it doesn&rsquo;t work though, it is a slog. I was grateful for the forward skip button at multiple points. Bottom line: watch this if you want more Phoebe Waller-Bridge, just don&rsquo;t expect more Fleabag.</p>\n",
+				"content_text": "Spent Saturday night and Sunday drowning out my internal monologue with a movie and two tv shows. This is the first time in a while that I've actually sat down and binged movies and TV. I think I've become a little jaded when it comes to this form of media; whatever time was previously spent on this is now devoted mostly to books. \n\n**Birds of Prey**:\n\nTL;DR: Meh\n\nLonger Version: Whenever I watch movies of the superhero variety, it seems like they are becoming more and more like games. There's an exploration phase where you build out the story, then you meet the big boss, you have a team, then there is a boss fight. The seams are also readily visible; visualizing the movie as a game, you can tell where the cut scenes would be. Birds of Prey readily fit into this mould.\n\n**Fleabag**:\n\nTL;DR: Excellent\n\nLonger Version: If someone asks for the perfect TV show, point them to this. Everything about this is amazing; the humour, each beat, the editing, the storyline. I had this on my watchlist for ages (see aforementioned jadedness) and then spent the day kicking myself for not watching it earlier. A few highlights: the names given to characters, breaking the fourth wall and then breaking that mechanic too, the brokenness of the main character and how that's approached; I could go on and on. Watch this show and revel in its greatness.\n\n**Killing Eve**:\n\nTL;DR: S1: Good, S2 & 3: Fluctuates between meh and good\n\nLonger Version: I started watching this because it's in the Phoebe Waller-Bridge universe, and you can see her fingerprints all over season one. The storytelling is tight but there a lot of elements to the plot that seem extraneous. The extraneous parts were multiplied in S2 and S3, with the worst parts of S2 devolving into a buddy cop drama. When it works, it is a great show with the chemistry between the main leads really shining through. When it doesn't work though, it is a slog. I was grateful for the forward skip button at multiple points. Bottom line: watch this if you want more Phoebe Waller-Bridge, just don't expect more Fleabag.\n",
+				"date_published": "2020-08-10T13:53:00+05:30",
+				"url": "https://blog.sarvagnan.com/2020/08/10/media-diet-and.html"
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2020/08/08/finished-reading-ants.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789353025038\">Ants among Elephants: An Untouchable Family and the Making of Modern India</a> by Sujatha Gidla 📚</p>\n",
+				"content_text": "Finished reading: [Ants among Elephants: An Untouchable Family and the Making of Modern India](https://micro.blog/books/9789353025038) by Sujatha Gidla 📚\n",
+				"date_published": "2020-08-08T16:09:22+05:30",
+				"url": "https://blog.sarvagnan.com/2020/08/08/finished-reading-ants.html",
+				"tags": ["nonfiction","biography","great"]
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2020/08/07/brian-phillips-on.html",
+				
+				"content_html": "<p><a href=\"https://www.theringer.com/2020/8/7/21358082/david-silva-manchester-city-champions-league-real-madrid\">Brian Phillips on David Silva</a></p>\n\n<p>Is there a word or phrase to describe someone who is a fan of the media that the various sports generate rather than the sports themselves?\n⚽️</p>\n",
+				"content_text": "[Brian Phillips on David Silva] (https://www.theringer.com/2020/8/7/21358082/david-silva-manchester-city-champions-league-real-madrid)\r\n\r\nIs there a word or phrase to describe someone who is a fan of the media that the various sports generate rather than the sports themselves?\r\n⚽️\n",
+				"date_published": "2020-08-07T18:16:12+05:30",
+				"url": "https://blog.sarvagnan.com/2020/08/07/brian-phillips-on.html"
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2020/08/07/finished-reading-harrow.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250313218\">Harrow the Ninth</a> by Tamsyn Muir 📚</p>\n",
+				"content_text": "Finished reading: [Harrow the Ninth](https://micro.blog/books/9781250313218) by Tamsyn Muir 📚\n",
+				"date_published": "2020-08-07T11:44:58+05:30",
+				"url": "https://blog.sarvagnan.com/2020/08/07/finished-reading-harrow.html",
+				"tags": ["fiction","good"]
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2020/08/05/zach-lowe-on.html",
+				
+				"content_html": "<p><a href=\"https://www.espn.in/nba/story/_/page/nbareturn29571626/why-some-nba-coaches-love-new-casual-look-some\">Zach Lowe on NBA coach fashion</a></p>\n\n<p>So many good quotes here. One example: Messina confirmed, via text, that he indeed has great taste</p>\n\n<p>🏀</p>\n",
+				"content_text": "[Zach Lowe on NBA coach fashion] (https://www.espn.in/nba/story/_/page/nbareturn29571626/why-some-nba-coaches-love-new-casual-look-some)\n\nSo many good quotes here. One example: Messina confirmed, via text, that he indeed has great taste\n\n🏀\n",
+				"date_published": "2020-08-05T22:30:00+05:30",
+				"url": "https://blog.sarvagnan.com/2020/08/05/zach-lowe-on.html"
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2020/08/05/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780765398574\">The Impossible Contract</a> by K.A. Doore 📚</p>\n",
+				"content_text": "Finished reading: [The Impossible Contract](https://micro.blog/books/9780765398574) by K.A. Doore 📚\n",
+				"date_published": "2020-08-05T21:09:46+05:30",
+				"url": "https://blog.sarvagnan.com/2020/08/05/finished-reading-the.html",
+				"tags": ["fiction"]
+			},
 			{
 				"id": "http://sarvagnan.micro.blog/2020/08/03/finished-reading-the.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250236968\">The Relentless Moon</a> by Mary Robinette Kowal 📚</p>\n",
 				"content_text": "Finished reading: [The Relentless Moon](https://micro.blog/books/9781250236968) by Mary Robinette Kowal 📚\n",
 				"date_published": "2020-08-03T09:51:33+05:30",
-				"url": "https://sarvagnan.micro.blog/2020/08/03/finished-reading-the.html",
+				"url": "https://blog.sarvagnan.com/2020/08/03/finished-reading-the.html",
 				"tags": ["fiction","good"]
 			},
 			{
@@ -21,7 +80,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780765398550\">The Perfect Assassin</a> by K.A. Doore 📚</p>\n",
 				"content_text": "Finished reading: [The Perfect Assassin](https://micro.blog/books/9780765398550) by K.A. Doore 📚\n",
 				"date_published": "2020-08-02T13:50:37+05:30",
-				"url": "https://sarvagnan.micro.blog/2020/08/02/finished-reading-the.html",
+				"url": "https://blog.sarvagnan.com/2020/08/02/finished-reading-the.html",
 				"tags": ["fiction"]
 			},
 			{
@@ -30,7 +89,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780765387394\">The Angel of the Crows</a> by Katherine Addison 📚</p>\n",
 				"content_text": "Finished reading: [The Angel of the Crows](https://micro.blog/books/9780765387394) by Katherine Addison 📚\n",
 				"date_published": "2020-08-01T18:21:55+05:30",
-				"url": "https://sarvagnan.micro.blog/2020/08/01/finished-reading-the.html",
+				"url": "https://blog.sarvagnan.com/2020/08/01/finished-reading-the.html",
 				"tags": ["fiction"]
 			},
 			{
@@ -39,7 +98,7 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780451472984\">A Brightness Long Ago</a> by Guy Gavriel Kay 📚</p>\n",
 				"content_text": "Finished reading: [A Brightness Long Ago](https://micro.blog/books/9780451472984) by Guy Gavriel Kay 📚\n",
 				"date_published": "2020-07-29T21:30:30+05:30",
-				"url": "https://sarvagnan.micro.blog/2020/07/29/finished-reading-a.html",
+				"url": "https://blog.sarvagnan.com/2020/07/29/finished-reading-a.html",
 				"tags": ["fiction","good"]
 			},
 			{
@@ -48,7 +107,7 @@
 				"content_html": "<p>Dates cake</p>\n\n<p><img src=\"uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Dates cake\n\n<img src=\"uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-23T00:23:27+05:30",
-				"url": "https://sarvagnan.micro.blog/2020/07/23/dates-cake.html"
+				"url": "https://blog.sarvagnan.com/2020/07/23/dates-cake.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2020/07/22/thought-on-first.html",
@@ -56,7 +115,7 @@
 				"content_html": "<p>Thought on first forays through the site: the discover feed is so nice. I&rsquo;d prefer using this as a place for capture like Dave Winer with scripting news. Blogging hasn&rsquo;t stuck for me yet, but we&rsquo;ll see how this goes.</p>\n",
 				"content_text": "Thought on first forays through the site: the discover feed is so nice. I'd prefer using this as a place for capture like Dave Winer with scripting news. Blogging hasn't stuck for me yet, but we'll see how this goes.\n",
 				"date_published": "2020-07-22T00:34:00+05:30",
-				"url": "https://sarvagnan.micro.blog/2020/07/22/thought-on-first.html"
+				"url": "https://blog.sarvagnan.com/2020/07/22/thought-on-first.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2020/07/22/sponge-cake.html",
@@ -64,7 +123,7 @@
 				"content_html": "<p>Sponge cake</p>\n\n<p><img src=\"uploads/2020/d43e5223a1.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
 				"content_text": "Sponge cake\n\n<img src=\"uploads/2020/d43e5223a1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-07-22T00:25:00+05:30",
-				"url": "https://sarvagnan.micro.blog/2020/07/22/sponge-cake.html",
+				"url": "https://blog.sarvagnan.com/2020/07/22/sponge-cake.html",
 				"tags": ["Baking"]
 			},
 			{
@@ -73,7 +132,7 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780062868930\">The Guest List</a> 📚</p>\n",
 				"content_text": "Currently reading: [The Guest List](https://micro.blog/books/9780062868930) 📚\n",
 				"date_published": "2020-07-18T18:23:11+05:30",
-				"url": "https://sarvagnan.micro.blog/2020/07/18/currently-reading-the.html",
+				"url": "https://blog.sarvagnan.com/2020/07/18/currently-reading-the.html",
 				"tags": ["fiction"]
 			}
 	]
