@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://sarvagnan.micro.blog/2021/04/17/i-started-watching.html",
+				
+				"content_html": "<p>I started watching James Hoffmann&rsquo;s videos after Kenji López-Alt highlighted one of his videos (<a href=\"https://www.youtube.com/watch?v=vnfxk_slKIk&amp;t=350s\">Steam Wand Scrambled Eggs</a>). His video on <a href=\"https://www.youtube.com/watch?v=jBXm8fCWdo8\">understanding the Aeropress</a> is a showcase of everything I love about his channel. #coffee</p>\n",
+				"content_text": "I started watching James Hoffmann's videos after Kenji López-Alt highlighted one of his videos ([Steam Wand Scrambled Eggs] (https://www.youtube.com/watch?v=vnfxk_slKIk&t=350s)). His video on [understanding the Aeropress] (https://www.youtube.com/watch?v=jBXm8fCWdo8) is a showcase of everything I love about his channel. #coffee\n",
+				"date_published": "2021-04-17T20:17:43+05:30",
+				"url": "https://blog.sarvagnan.com/2021/04/17/i-started-watching.html"
+			},
+			{
 				"id": "http://sarvagnan.micro.blog/2021/04/06/signal-vs-whatsapp.html",
 				"title": "Signal vs WhatsApp",
 				"content_html": "\n\n<p>With all of the hubbub about WhatsApp&rsquo;s new privacy policy, a whole bunch of people switched to Signal. As someone who&rsquo;s been trying to get people to switch to Signal for years (for my own selfish reasons; I&rsquo;ve wanted to try the app but can&rsquo;t do so with just myself), I&rsquo;ve viewed this as a good thing. However, I can&rsquo;t switch apps wholesale as a lot of people I know still use WhatsApp, plus all of my work chats are there. After using both for sometime, here are a few pros and cons I&rsquo;ve found with both.</p>\n\n<h2 id=\"whatsapp-feature-bloat\">WhatsApp: Feature Bloat</h2>\n\n<p>This has been discussed ad nauseum in other places so I&rsquo;ll try to keep this short. There is just too much going on in WhatsApp. I get where Facebook is coming from on this though as I know a lot of people who manage their lives on WhatsApp.</p>\n\n<h2 id=\"signal-reliability\">Signal: Reliability</h2>\n\n<p>Signal seems to have issues with messages actually going through. A friend and I had numerous issues with chats and photos. I&rsquo;m not entirely sure why. Which leads me to the next point.</p>\n\n<h2 id=\"signal-cross-platform-consistency\">Signal: Cross-platform consistency</h2>\n\n<p>Signal has apps for all the major platforms. However, actually syncing activity between two different platforms is a different story entirely. They have an explanation for why they don&rsquo;t sync chats on first launch but this doesn&rsquo;t hold water in my opinion. It is entirely possible to have peer to peer syncing between your own clients and based on their privacy stance, this is something that I would have expected them to build. At this stage though, it is left up to chance as to what messages you see where.</p>\n\n<h2 id=\"signal-the-someone-is-on-signal-notifications\">Signal: The &ldquo;Someone is on Signal&rdquo; notifications</h2>\n\n<p>These are just plain annoying. At the start, Signal tells you about everyone in your contacts who is on the app. I would have expected this to be disabled by default at least.</p>\n\n<h2 id=\"whatsapp-spam\">WhatsApp: Spam</h2>\n\n<p>This is probably because there are way more people who use WhatsApp than Signal, but spam is a major issue. I get random messages from people and I have no idea how to prevent this. I don&rsquo;t want it to be impossible for people outside my contacts to reach me and I&rsquo;m not sure how you&rsquo;d get rid of spam without compromising the privacy features of the app. This is a thorny one.</p>\n\n<p>Up until some time ago, I had WhatsApp&rsquo;s inability to make calls from the desktop on this list, but they have since added this.</p>\n\n<p>This is all that comes to mind right now; I&rsquo;ll keep adding to this as more things come up or as some of this is fixed.</p>\n",
@@ -136,8 +144,8 @@
 			{
 				"id": "http://sarvagnan.micro.blog/2020/07/23/dates-cake.html",
 				
-				"content_html": "<p>Dates cake</p>\n\n<p><img src=\"uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Dates cake\n\n<img src=\"uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Dates cake</p>\n\n<p><img src=\"https://sarvagnan.micro.blog/uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Dates cake\n\n<img src=\"https://sarvagnan.micro.blog/uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-23T00:23:27+05:30",
 				"url": "https://blog.sarvagnan.com/2020/07/23/dates-cake.html"
 			},
