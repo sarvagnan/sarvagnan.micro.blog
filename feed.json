@@ -7,11 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://sarvagnan.micro.blog/2021/05/15/finished-reading-drawn.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780425270004\">Drawn Blades (Fallen Blade, #5)</a> by Kelly McCullough 📚</p>\n",
+				"content_text": "Finished reading: [Drawn Blades (Fallen Blade, #5)](https://micro.blog/books/9780425270004) by Kelly McCullough 📚\n",
+				"date_published": "2021-05-15T02:18:44+05:30",
+				"url": "https://blog.sarvagnan.com/2021/05/15/finished-reading-drawn.html"
+			},
+			{
 				"id": "http://sarvagnan.micro.blog/2021/04/17/i-started-watching.html",
 				
-				"content_html": "<p>I started watching James Hoffmann&rsquo;s videos after Kenji López-Alt highlighted one of his videos (<a href=\"https://www.youtube.com/watch?v=vnfxk_slKIk&amp;t=350s\">Steam Wand Scrambled Eggs</a>). His video on <a href=\"https://www.youtube.com/watch?v=jBXm8fCWdo8\">understanding the Aeropress</a> is a showcase of everything I love about his channel. #coffee</p>\n",
-				"content_text": "I started watching James Hoffmann's videos after Kenji López-Alt highlighted one of his videos ([Steam Wand Scrambled Eggs] (https://www.youtube.com/watch?v=vnfxk_slKIk&t=350s)). His video on [understanding the Aeropress] (https://www.youtube.com/watch?v=jBXm8fCWdo8) is a showcase of everything I love about his channel. #coffee\n",
-				"date_published": "2021-04-17T20:17:43+05:30",
+				"content_html": "<p>I started watching James Hoffmann&rsquo;s videos after Kenji López-Alt highlighted one of his videos (<a href=\"https://www.youtube.com/watch?v=vnfxk_slKIk&amp;t=350s\">Steam Wand Scrambled Eggs</a>). His video on <a href=\"https://www.youtube.com/watch?v=jBXm8fCWdo8\">understanding the Aeropress</a> is a showcase of everything I love about his channel. ☕️</p>\n",
+				"content_text": "I started watching James Hoffmann's videos after Kenji López-Alt highlighted one of his videos ([Steam Wand Scrambled Eggs] (https://www.youtube.com/watch?v=vnfxk_slKIk&t=350s)). His video on [understanding the Aeropress] (https://www.youtube.com/watch?v=jBXm8fCWdo8) is a showcase of everything I love about his channel. ☕️\n",
+				"date_published": "2021-04-17T20:17:00+05:30",
 				"url": "https://blog.sarvagnan.com/2021/04/17/i-started-watching.html"
 			},
 			{
