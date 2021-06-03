@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://sarvagnan.micro.blog/2021/06/04/this-is-a.html",
+				
+				"content_html": "<p>This is a fascinating look into one of the many hidden parts of film making <a href=\"https://kottke.org/21/06/footsteps-how-movie-sounds-are-made\">Footsteps: How Movie Sounds Are Made</a></p>\n",
+				"content_text": "This is a fascinating look into one of the many hidden parts of film making [Footsteps: How Movie Sounds Are Made](https://kottke.org/21/06/footsteps-how-movie-sounds-are-made)\n",
+				"date_published": "2021-06-04T00:48:43+05:30",
+				"url": "https://blog.sarvagnan.com/2021/06/04/this-is-a.html"
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2021/05/30/finished-reading-project.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593395561\">Project Hail Mary: A Novel</a> by Andy Weir 📚</p>\n",
+				"content_text": "Finished reading: [Project Hail Mary: A Novel](https://micro.blog/books/9780593395561) by Andy Weir 📚\n",
+				"date_published": "2021-05-30T12:14:44+05:30",
+				"url": "https://blog.sarvagnan.com/2021/05/30/finished-reading-project.html"
+			},
+			{
 				"id": "http://sarvagnan.micro.blog/2021/05/24/finished-reading-redshirts.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780575134294\">Redshirts</a> by John Scalzi 📚</p>\n",
