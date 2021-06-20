@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://sarvagnan.micro.blog/2021/06/20/a-short-appreciation.html",
+				
+				"content_html": "<p>A short appreciation post from Autocar India on the 20th anniversary of the Honda Activa. I&rsquo;ve had mine from 2008 and it&rsquo;s still a workhorse.</p>\n\n<p><a href=\"https://www.autocarindia.com/auto-features/20-years-of-the-honda-activa-421150\">www.autocarindia.com/auto-feat&hellip;</a></p>\n",
+				"content_text": "A short appreciation post from Autocar India on the 20th anniversary of the Honda Activa. I've had mine from 2008 and it's still a workhorse. \n\n[www.autocarindia.com/auto-feat...](https://www.autocarindia.com/auto-features/20-years-of-the-honda-activa-421150)\n",
+				"date_published": "2021-06-20T10:48:54+05:30",
+				"url": "https://blog.sarvagnan.com/2021/06/20/a-short-appreciation.html"
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2021/06/09/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780385546775\">The Liar&rsquo;s Dictionary: A Novel</a> by Eley Williams 📚</p>\n",
+				"content_text": "Finished reading: [The Liar's Dictionary: A Novel](https://micro.blog/books/9780385546775) by Eley Williams 📚\n",
+				"date_published": "2021-06-09T12:33:29+05:30",
+				"url": "https://blog.sarvagnan.com/2021/06/09/finished-reading-the.html"
+			},
+			{
 				"id": "http://sarvagnan.micro.blog/2021/06/04/this-is-a.html",
 				
 				"content_html": "<p>This is a fascinating look into one of the many hidden parts of film making <a href=\"https://kottke.org/21/06/footsteps-how-movie-sounds-are-made\">Footsteps: How Movie Sounds Are Made</a></p>\n",
@@ -208,8 +224,8 @@
 			{
 				"id": "http://sarvagnan.micro.blog/2020/07/23/dates-cake.html",
 				
-				"content_html": "<p>Dates cake</p>\n\n<p><img src=\"https://sarvagnan.micro.blog/uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Dates cake\n\n<img src=\"https://sarvagnan.micro.blog/uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Dates cake</p>\n\n<p><img src=\"uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Dates cake\n\n<img src=\"uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-23T00:23:27+05:30",
 				"url": "https://blog.sarvagnan.com/2020/07/23/dates-cake.html"
 			},
