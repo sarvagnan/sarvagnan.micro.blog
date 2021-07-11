@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://sarvagnan.micro.blog/2021/07/11/finished-reading-soulstar.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250203571\">Soulstar (The Kingston Cycle, 3)</a> by C. L. Polk 📚</p>\n",
+				"content_text": "Finished reading: [Soulstar (The Kingston Cycle, 3)](https://micro.blog/books/9781250203571) by C. L. Polk 📚\n",
+				"date_published": "2021-07-11T12:50:56+05:30",
+				"url": "https://blog.sarvagnan.com/2021/07/11/finished-reading-soulstar.html"
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2021/07/09/finished-reading-stormsong.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780765398994\">Stormsong (The Kingston Cycle, 2)</a> by C. L. Polk 📚</p>\n",
+				"content_text": "Finished reading: [Stormsong (The Kingston Cycle, 2)](https://micro.blog/books/9780765398994) by C. L. Polk 📚\n",
+				"date_published": "2021-07-09T07:19:39+05:30",
+				"url": "https://blog.sarvagnan.com/2021/07/09/finished-reading-stormsong.html"
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2021/07/07/finished-reading-witchmark.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250162687\">Witchmark (The Kingston Cycle, 1)</a> by C. L. Polk 📚</p>\n",
+				"content_text": "Finished reading: [Witchmark (The Kingston Cycle, 1)](https://micro.blog/books/9781250162687) by C. L. Polk 📚\n",
+				"date_published": "2021-07-07T22:21:41+05:30",
+				"url": "https://blog.sarvagnan.com/2021/07/07/finished-reading-witchmark.html"
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2021/07/05/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781645660293\">The Midnight Bargain</a> by C. L. Polk 📚</p>\n",
+				"content_text": "Finished reading: [The Midnight Bargain](https://micro.blog/books/9781645660293) by C. L. Polk 📚\n",
+				"date_published": "2021-07-05T20:54:00+05:30",
+				"url": "https://blog.sarvagnan.com/2021/07/05/finished-reading-the.html"
+			},
+			{
 				"id": "http://sarvagnan.micro.blog/2021/06/26/finished-reading-the.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780062468741\">The Hidden Palace: A Novel of the Golem and the Jinni</a> by Helene Wecker 📚</p>\n",
@@ -240,8 +272,8 @@
 			{
 				"id": "http://sarvagnan.micro.blog/2020/07/23/dates-cake.html",
 				
-				"content_html": "<p>Dates cake</p>\n\n<p><img src=\"uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Dates cake\n\n<img src=\"uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Dates cake</p>\n\n<p><img src=\"https://sarvagnan.micro.blog/uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Dates cake\n\n<img src=\"https://sarvagnan.micro.blog/uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-23T00:23:27+05:30",
 				"url": "https://blog.sarvagnan.com/2020/07/23/dates-cake.html"
 			},
