@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://sarvagnan.micro.blog/2021/07/26/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780765387424\">The Witness for the Dead</a> by Katherine Addison 📚</p>\n\n<p>I loved this so much. I was so disappointed when Katherine Addison said that The Goblin Emperor was a standalone book and was eagerly awaiting this ever since it was announced. After I read this though, I reread the Goblin Emperor once again. Just as good as I remembered it to be.</p>\n",
+				"content_text": "Finished reading: [The Witness for the Dead](https://micro.blog/books/9780765387424) by Katherine Addison 📚\n\nI loved this so much. I was so disappointed when Katherine Addison said that The Goblin Emperor was a standalone book and was eagerly awaiting this ever since it was announced. After I read this though, I reread the Goblin Emperor once again. Just as good as I remembered it to be.\n",
+				"date_published": "2021-07-26T08:02:09+05:30",
+				"url": "https://blog.sarvagnan.com/2021/07/26/finished-reading-the.html"
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2021/07/20/finished-reading-two.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780765333124\">Two Serpents Rise (Craft Sequence)</a> by Max Gladstone 📚</p>\n",
+				"content_text": "Finished reading: [Two Serpents Rise (Craft Sequence)](https://micro.blog/books/9780765333124) by Max Gladstone 📚\n",
+				"date_published": "2021-07-20T21:17:46+05:30",
+				"url": "https://blog.sarvagnan.com/2021/07/20/finished-reading-two.html"
+			},
+			{
 				"id": "http://sarvagnan.micro.blog/2021/07/18/finished-reading-three.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781470809836\">Three Parts Dead (Craft Sequence)</a> by Max Gladstone 📚</p>\n",
@@ -288,8 +304,8 @@
 			{
 				"id": "http://sarvagnan.micro.blog/2020/07/23/dates-cake.html",
 				
-				"content_html": "<p>Dates cake</p>\n\n<p><img src=\"https://sarvagnan.micro.blog/uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Dates cake\n\n<img src=\"https://sarvagnan.micro.blog/uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Dates cake</p>\n\n<p><img src=\"uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Dates cake\n\n<img src=\"uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-23T00:23:27+05:30",
 				"url": "https://blog.sarvagnan.com/2020/07/23/dates-cake.html"
 			},
