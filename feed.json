@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://sarvagnan.micro.blog/2021/08/05/finished-reading-she.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250621801\">She Who Became the Sun</a> by Shelley Parker-Chan 📚</p>\n",
+				"content_text": "Finished reading: [She Who Became the Sun](https://micro.blog/books/9781250621801) by Shelley Parker-Chan 📚\n",
+				"date_published": "2021-08-05T09:42:49+05:30",
+				"url": "https://blog.sarvagnan.com/2021/08/05/finished-reading-she.html"
+			},
+			{
 				"id": "http://sarvagnan.micro.blog/2021/07/26/finished-reading-the.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780765387424\">The Witness for the Dead</a> by Katherine Addison 📚</p>\n\n<p>I loved this so much. I was so disappointed when Katherine Addison said that The Goblin Emperor was a standalone book and was eagerly awaiting this ever since it was announced. After I read this though, I reread the Goblin Emperor once again. Just as good as I remembered it to be.</p>\n",
@@ -304,8 +312,8 @@
 			{
 				"id": "http://sarvagnan.micro.blog/2020/07/23/dates-cake.html",
 				
-				"content_html": "<p>Dates cake</p>\n\n<p><img src=\"uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Dates cake\n\n<img src=\"uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Dates cake</p>\n\n<p><img src=\"https://sarvagnan.micro.blog/uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Dates cake\n\n<img src=\"https://sarvagnan.micro.blog/uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-23T00:23:27+05:30",
 				"url": "https://blog.sarvagnan.com/2020/07/23/dates-cake.html"
 			},
