@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://sarvagnan.micro.blog/2021/08/10/finished-reading-last.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780765379405\">Last First Snow: A Novel of the Craft Sequence</a> by Max Gladstone 📚</p>\n",
+				"content_text": "Finished reading: [Last First Snow: A Novel of the Craft Sequence](https://micro.blog/books/9780765379405) by Max Gladstone 📚\n",
+				"date_published": "2021-08-10T23:06:07+05:30",
+				"url": "https://blog.sarvagnan.com/2021/08/10/finished-reading-last.html"
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2021/08/07/finished-reading-full.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780765335746\">Full Fathom Five: A Novel of the Craft Sequence</a> by Max Gladstone 📚</p>\n",
+				"content_text": "Finished reading: [Full Fathom Five: A Novel of the Craft Sequence](https://micro.blog/books/9780765335746) by Max Gladstone 📚\n",
+				"date_published": "2021-08-07T22:43:42+05:30",
+				"url": "https://blog.sarvagnan.com/2021/08/07/finished-reading-full.html"
+			},
+			{
 				"id": "http://sarvagnan.micro.blog/2021/08/05/finished-reading-she.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250621801\">She Who Became the Sun</a> by Shelley Parker-Chan 📚</p>\n",
@@ -312,8 +328,8 @@
 			{
 				"id": "http://sarvagnan.micro.blog/2020/07/23/dates-cake.html",
 				
-				"content_html": "<p>Dates cake</p>\n\n<p><img src=\"https://sarvagnan.micro.blog/uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Dates cake\n\n<img src=\"https://sarvagnan.micro.blog/uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Dates cake</p>\n\n<p><img src=\"uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Dates cake\n\n<img src=\"uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-23T00:23:27+05:30",
 				"url": "https://blog.sarvagnan.com/2020/07/23/dates-cake.html"
 			},
