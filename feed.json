@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://sarvagnan.micro.blog/2021/09/10/finished-reading-a.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781524743475\">A Beautifully Foolish Endeavor: A Novel (The Carls)</a> by Hank Green 📚</p>\n",
+				"content_text": "Finished reading: [A Beautifully Foolish Endeavor: A Novel (The Carls)](https://micro.blog/books/9781524743475) by Hank Green 📚\n",
+				"date_published": "2021-09-10T10:48:48+05:30",
+				"url": "https://blog.sarvagnan.com/2021/09/10/finished-reading-a.html"
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2021/09/02/finished-reading-light.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250769824\">Light Chaser</a> by Peter F Hamilton and Gareth L Powell 📚</p>\n",
+				"content_text": "Finished reading: [Light Chaser](https://micro.blog/books/9781250769824) by Peter F Hamilton and Gareth L Powell 📚\n",
+				"date_published": "2021-09-02T13:56:26+05:30",
+				"url": "https://blog.sarvagnan.com/2021/09/02/finished-reading-light.html"
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2021/08/29/finished-reading-an.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781524743468\">An Absolutely Remarkable Thing: A Novel (The Carls)</a> by Hank Green 📚</p>\n",
+				"content_text": "Finished reading: [An Absolutely Remarkable Thing: A Novel (The Carls)](https://micro.blog/books/9781524743468) by Hank Green 📚\n",
+				"date_published": "2021-08-29T14:31:35+05:30",
+				"url": "https://blog.sarvagnan.com/2021/08/29/finished-reading-an.html"
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2021/08/28/webpages-that-hijack.html",
+				
+				"content_html": "<p>Webpages that hijack scrolling: please don&rsquo;t. Whatever idea you have and whatever method you choose, native scrolling is always going to be smoother and less jarring. The last thing I want to worry about when navigating a webpage is scrolling behaviour.</p>\n",
+				"content_text": "Webpages that hijack scrolling: please don't. Whatever idea you have and whatever method you choose, native scrolling is always going to be smoother and less jarring. The last thing I want to worry about when navigating a webpage is scrolling behaviour.\n",
+				"date_published": "2021-08-28T14:48:49+05:30",
+				"url": "https://blog.sarvagnan.com/2021/08/28/webpages-that-hijack.html"
+			},
+			{
 				"id": "http://sarvagnan.micro.blog/2021/08/23/finished-reading-the.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780765395894\">THE RUIN OF ANGELS (Craft Sequence)</a> by MAX GLADSTONE 📚</p>\n",
@@ -336,8 +368,8 @@
 			{
 				"id": "http://sarvagnan.micro.blog/2020/07/23/dates-cake.html",
 				
-				"content_html": "<p>Dates cake</p>\n\n<p><img src=\"https://sarvagnan.micro.blog/uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Dates cake\n\n<img src=\"https://sarvagnan.micro.blog/uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Dates cake</p>\n\n<p><img src=\"uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Dates cake\n\n<img src=\"uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-23T00:23:27+05:30",
 				"url": "https://blog.sarvagnan.com/2020/07/23/dates-cake.html"
 			},
