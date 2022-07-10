@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://sarvagnan.micro.blog/2022/07/10/after-seeing-sorted.html",
+				
+				"content_html": "<p>After seeing <a href=\"https://www.youtube.com/c/SORTEDFood\">Sorted Food</a> on Tom Scott&rsquo;s Plus channel, I have been hooked on their videos. I don&rsquo;t think I&rsquo;ve seen a bad video, and their friendship shines through in everything I&rsquo;ve seen so far.</p>\n",
+				"content_text": "After seeing [Sorted Food](https://www.youtube.com/c/SORTEDFood) on Tom Scott's Plus channel, I have been hooked on their videos. I don't think I've seen a bad video, and their friendship shines through in everything I've seen so far.\n",
+				"date_published": "2022-07-10T12:33:18+05:30",
+				"url": "https://blog.sarvagnan.com/2022/07/10/after-seeing-sorted.html"
+			},
+			{
 				"id": "http://sarvagnan.micro.blog/2022/06/15/141628.html",
 				
 				"content_html": "<p><img src=\"uploads/2022/8ed8abd1b8.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
@@ -41,8 +49,8 @@
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/30/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 29: Stripes</p>\n\n<p><img src=\"uploads/2022/ce3e67169e.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 29: Stripes\n\n<img src=\"uploads/2022/ce3e67169e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 29: Stripes</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/ce3e67169e.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 29: Stripes\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/ce3e67169e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-05-30T00:14:06+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/30/may-photoblogging-challenge.html"
 			},
@@ -201,8 +209,8 @@
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/12/i-now-have.html",
 				"title": "Daily Games",
-				"content_html": "<p>I now have a set of daily games a la wordle. Listing them out here:</p>\n\n<ul>\n<li><a href=\"https://www.nytimes.com/games/wordle/index.html\">Wordle</a></li>\n<li><a href=\"https://worldle.teuteuf.fr\">Worldle</a></li>\n<li><a href=\"https://poeltl.dunk.town\">Poeltl</a></li>\n<li><a href=\"https://framed.wtf\">Framed</a></li>\n<li><a href=\"https://wafflegame.net\">Waffle</a></li>\n<li><a href=\"https://oec.world/en/tradle/\">Tradle</a></li>\n<li><a href=\"https://www.redactle.com\">Redactle</a></li>\n<li><a href=\"https://playknotwords.com\">Knotwords</a></li>\n</ul>\n\n<p>I&rsquo;ll try to keep this list updated if/when new games get added to this list.</p>\n",
-				"content_text": "I now have a set of daily games a la wordle. Listing them out here:\n\n- [Wordle](https://www.nytimes.com/games/wordle/index.html)\n- [Worldle](https://worldle.teuteuf.fr)\n- [Poeltl](https://poeltl.dunk.town)\n- [Framed](https://framed.wtf)\n- [Waffle](https://wafflegame.net)\n- [Tradle](https://oec.world/en/tradle/)\n- [Redactle](https://www.redactle.com)\n- [Knotwords](https://playknotwords.com)\n\nI'll try to keep this list updated if/when new games get added to this list.\n",
+				"content_html": "<p>I now have a set of daily games a la wordle. Listing them out here:</p>\n\n<ul>\n<li><a href=\"https://www.nytimes.com/games/wordle/index.html\">Wordle</a></li>\n<li><a href=\"https://worldle.teuteuf.fr\">Worldle</a></li>\n<li><a href=\"https://poeltl.dunk.town\">Poeltl</a></li>\n<li><a href=\"https://framed.wtf\">Framed</a></li>\n<li><a href=\"https://wafflegame.net\">Waffle</a></li>\n<li><a href=\"https://oec.world/en/tradle/\">Tradle</a></li>\n<li><a href=\"https://www.redactle.com\">Redactle</a></li>\n<li><a href=\"https://playknotwords.com\">Knotwords</a></li>\n<li><a href=\"https://squaredle.app/\">Squardle</a></li>\n</ul>\n\n<p>I&rsquo;ll try to keep this list updated if/when new games get added to this list.</p>\n",
+				"content_text": "I now have a set of daily games a la wordle. Listing them out here:\n\n- [Wordle](https://www.nytimes.com/games/wordle/index.html)\n- [Worldle](https://worldle.teuteuf.fr)\n- [Poeltl](https://poeltl.dunk.town)\n- [Framed](https://framed.wtf)\n- [Waffle](https://wafflegame.net)\n- [Tradle](https://oec.world/en/tradle/)\n- [Redactle](https://www.redactle.com)\n- [Knotwords](https://playknotwords.com)\n- [Squardle](https://squaredle.app/)\n\nI'll try to keep this list updated if/when new games get added to this list.\n",
 				"date_published": "2022-05-12T14:23:56+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/12/i-now-have.html"
 			},
