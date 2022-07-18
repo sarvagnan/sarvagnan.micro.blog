@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://sarvagnan.micro.blog/2022/07/18/i-wasnt-sure.html",
+				
+				"content_html": "<p>I wasn&rsquo;t sure whether I wanted to get the new Macbook Air or the 14 inch Macbook Pro. I was gravitating towards the Pro but the image of the two side by side in John Gruber&rsquo;s <a href=\"https://daringfireball.net/2022/07/the_2022_13-inch_macbook_air\">review</a> really sold me on the Air. That difference in thickness is quite stunning.</p>\n",
+				"content_text": "I wasn't sure whether I wanted to get the new Macbook Air or the 14 inch Macbook Pro. I was gravitating towards the Pro but the image of the two side by side in John Gruber's [review](https://daringfireball.net/2022/07/the_2022_13-inch_macbook_air) really sold me on the Air. That difference in thickness is quite stunning.\n",
+				"date_published": "2022-07-18T12:48:09+05:30",
+				"url": "https://blog.sarvagnan.com/2022/07/18/i-wasnt-sure.html"
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2022/07/15/i-enjoyed-this.html",
+				
+				"content_html": "<p>I enjoyed this article by Elizabeth Lopatto on the Twitter nonsense: <a href=\"https://www.theverge.com/23205223/tech-journalism-accessibility-assistive-coverage\">Twitter aims its most powerful weapon at Elon Musk: his own tweets</a>. Much of it is discussed on the most recent episode of the Vergecast, but I love how Lopatto gets angrier and angrier as the article goes on.</p>\n",
+				"content_text": "I enjoyed this article by Elizabeth Lopatto on the Twitter nonsense: [Twitter aims its most powerful weapon at Elon Musk: his own tweets] (https://www.theverge.com/23205223/tech-journalism-accessibility-assistive-coverage). Much of it is discussed on the most recent episode of the Vergecast, but I love how Lopatto gets angrier and angrier as the article goes on.\n",
+				"date_published": "2022-07-15T19:50:57+05:30",
+				"url": "https://blog.sarvagnan.com/2022/07/15/i-enjoyed-this.html"
+			},
+			{
 				"id": "http://sarvagnan.micro.blog/2022/07/10/after-seeing-sorted.html",
 				
 				"content_html": "<p>After seeing <a href=\"https://www.youtube.com/c/SORTEDFood\">Sorted Food</a> on Tom Scott&rsquo;s Plus channel, I have been hooked on their videos. I don&rsquo;t think I&rsquo;ve seen a bad video, and their friendship shines through in everything I&rsquo;ve seen so far.</p>\n",
@@ -33,16 +49,16 @@
 			{
 				"id": "http://sarvagnan.micro.blog/2022/06/01/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 31: Endurance</p>\n\n<p><img src=\"uploads/2022/787eb3b726.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 31: Endurance\n\n<img src=\"uploads/2022/787eb3b726.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 31: Endurance</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/787eb3b726.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 31: Endurance\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/787eb3b726.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-01T10:24:38+05:30",
 				"url": "https://blog.sarvagnan.com/2022/06/01/may-photoblogging-challenge.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/31/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 30: Fish</p>\n\n<p><img src=\"uploads/2022/08cbdfba46.jpg\" width=\"169\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 30: Fish\n\n<img src=\"uploads/2022/08cbdfba46.jpg\" width=\"169\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 30: Fish</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/08cbdfba46.jpg\" width=\"169\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 30: Fish\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/08cbdfba46.jpg\" width=\"169\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-31T13:03:14+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/31/may-photoblogging-challenge.html"
 			},
