@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://sarvagnan.micro.blog/2022/09/19/conversing-with-manton.html",
+				
+				"content_html": "<p>Conversing with Manton about <a href=\"https://www.manton.org/2022/09/18/possible-solutions-to.html\">this post</a> and with my friends in the US on their trials and tribulations when dealing with anything related to money (transfers, the IRS), I get the impression that the US, for all its strengths, is really behind on tech adoption.</p>\n",
+				"content_text": "Conversing with Manton about [this post](https://www.manton.org/2022/09/18/possible-solutions-to.html) and with my friends in the US on their trials and tribulations when dealing with anything related to money (transfers, the IRS), I get the impression that the US, for all its strengths, is really behind on tech adoption.\n",
+				"date_published": "2022-09-19T13:34:06+05:30",
+				"url": "https://blog.sarvagnan.com/2022/09/19/conversing-with-manton.html"
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2022/07/19/as-someone-who.html",
+				
+				"content_html": "<p>As someone who did not use voice assistants at all, I&rsquo;ve found Google Assistant to be very useful to set a quick timer in the morning. I don&rsquo;t know if I&rsquo;ll have other uses for it, though we will see as time goes on.</p>\n",
+				"content_text": "As someone who did not use voice assistants at all, I've found Google Assistant to be very useful to set a quick timer in the morning. I don't know if I'll have other uses for it, though we will see as time goes on.\n",
+				"date_published": "2022-07-19T12:48:38+05:30",
+				"url": "https://blog.sarvagnan.com/2022/07/19/as-someone-who.html"
+			},
+			{
 				"id": "http://sarvagnan.micro.blog/2022/07/18/i-wasnt-sure.html",
 				
 				"content_html": "<p>I wasn&rsquo;t sure whether I wanted to get the new Macbook Air or the 14 inch Macbook Pro. I was gravitating towards the Pro but the image of the two side by side in John Gruber&rsquo;s <a href=\"https://daringfireball.net/2022/07/the_2022_13-inch_macbook_air\">review</a> really sold me on the Air. That difference in thickness is quite stunning.</p>\n",
@@ -33,8 +49,8 @@
 			{
 				"id": "http://sarvagnan.micro.blog/2022/06/15/141628.html",
 				
-				"content_html": "<p><img src=\"uploads/2022/8ed8abd1b8.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2022/8ed8abd1b8.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://blog.sarvagnan.com/uploads/2022/8ed8abd1b8.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/8ed8abd1b8.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-15T14:16:28+05:30",
 				"url": "https://blog.sarvagnan.com/2022/06/15/141628.html"
 			},
