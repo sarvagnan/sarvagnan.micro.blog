@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://sarvagnan.micro.blog/2022/11/27/this-is-a.html",
+				
+				"content_html": "<p>This is a fascinating look at Saudia Arabia (via Tyler Cowen): <a href=\"https://mattlakeman.org/2022/11/22/notes-on-saudi-arabia/\">mattlakeman.org/2022/11/2&hellip;</a></p>\n\n<p>There is so much here that I did not know, and as with anything of this nature, add salt as necessary.</p>\n",
+				"content_text": "This is a fascinating look at Saudia Arabia (via Tyler Cowen): [mattlakeman.org/2022/11/2...](https://mattlakeman.org/2022/11/22/notes-on-saudi-arabia/)\r\n\r\nThere is so much here that I did not know, and as with anything of this nature, add salt as necessary.\n",
+				"date_published": "2022-11-27T14:10:40+05:30",
+				"url": "https://blog.sarvagnan.com/2022/11/27/this-is-a.html"
+			},
+			{
 				"id": "http://sarvagnan.micro.blog/2022/11/18/til-that-you.html",
 				
 				"content_html": "<p>TIL that you can get an RSS feed of a Mastodon timeline by adding .rss at the end (via <a href=\"http://scripting.com/2022/11/17/120544.html\">Dave Winer</a>). I don&rsquo;t want to build a whole messy timeline again. The fact that all feeds are just RSS feeds means that I can create multiple lists and manage them with Feedland or NNW.</p>\n",
