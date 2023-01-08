@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://sarvagnan.micro.blog/2023/01/08/finished-reading-stars.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781789094305\">Stars and Bones</a> by Gareth L. Powell 📚</p>\n\n<p>First book of the year! I enjoyed this less than the Embers of War trilogy, though I am curious to see where the author goes from here.</p>\n",
+				"content_text": "Finished reading: [Stars and Bones](https://micro.blog/books/9781789094305) by Gareth L. Powell 📚\n\nFirst book of the year! I enjoyed this less than the Embers of War trilogy, though I am curious to see where the author goes from here.\n",
+				"date_published": "2023-01-08T18:31:34+05:30",
+				"url": "https://blog.sarvagnan.com/2023/01/08/finished-reading-stars.html"
+			},
+			{
+				"id": "http://sarvagnan.micro.blog/2023/01/03/patrick-mckenzie-is.html",
+				
+				"content_html": "<p>Patrick McKenzie is one of those nerds who knows so much about something that everything he writes ends up being interesting. This one on ATMs: <a href=\"https://www.bitsaboutmoney.com/archive/the-infrastructure-behind-atms/\">www.bitsaboutmoney.com/archive/t&hellip;</a></p>\n",
+				"content_text": "Patrick McKenzie is one of those nerds who knows so much about something that everything he writes ends up being interesting. This one on ATMs: [www.bitsaboutmoney.com/archive/t...](https://www.bitsaboutmoney.com/archive/the-infrastructure-behind-atms/)\n",
+				"date_published": "2023-01-03T20:43:43+05:30",
+				"url": "https://blog.sarvagnan.com/2023/01/03/patrick-mckenzie-is.html"
+			},
+			{
 				"id": "http://sarvagnan.micro.blog/2022/12/30/this-is-such.html",
 				
 				"content_html": "<p>This is such a damning look into the start of what could have been (and still could be) a promising program. It&rsquo;s unfortunate that this is entirely in line with previous decisions: <a href=\"https://www.semianalysis.com/p/indias-semiconductor-scam-indian\">India&rsquo;s Semiconductor Scam by Dylan Patel in SemiAnalysis</a></p>\n",
@@ -89,8 +105,8 @@
 			{
 				"id": "http://sarvagnan.micro.blog/2022/06/15/141628.html",
 				
-				"content_html": "<p><img src=\"uploads/2022/8ed8abd1b8.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2022/8ed8abd1b8.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://blog.sarvagnan.com/uploads/2022/8ed8abd1b8.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/8ed8abd1b8.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-15T14:16:28+05:30",
 				"url": "https://blog.sarvagnan.com/2022/06/15/141628.html"
 			},
@@ -105,32 +121,32 @@
 			{
 				"id": "http://sarvagnan.micro.blog/2022/06/01/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 31: Endurance</p>\n\n<p><img src=\"uploads/2022/787eb3b726.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 31: Endurance\n\n<img src=\"uploads/2022/787eb3b726.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 31: Endurance</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/787eb3b726.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 31: Endurance\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/787eb3b726.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-01T10:24:38+05:30",
 				"url": "https://blog.sarvagnan.com/2022/06/01/may-photoblogging-challenge.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/31/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 30: Fish</p>\n\n<p><img src=\"uploads/2022/08cbdfba46.jpg\" width=\"169\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 30: Fish\n\n<img src=\"uploads/2022/08cbdfba46.jpg\" width=\"169\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 30: Fish</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/08cbdfba46.jpg\" width=\"169\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 30: Fish\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/08cbdfba46.jpg\" width=\"169\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-31T13:03:14+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/31/may-photoblogging-challenge.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/30/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 29: Stripes</p>\n\n<p><img src=\"uploads/2022/ce3e67169e.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 29: Stripes\n\n<img src=\"uploads/2022/ce3e67169e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 29: Stripes</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/ce3e67169e.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 29: Stripes\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/ce3e67169e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-05-30T00:14:06+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/30/may-photoblogging-challenge.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/29/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 28: Fair</p>\n\n<p>Fair Trade ☕️</p>\n\n<p><img src=\"uploads/2022/001529402f.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 28: Fair\r\n\r\nFair Trade ☕️\n\n<img src=\"uploads/2022/001529402f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 28: Fair</p>\n\n<p>Fair Trade ☕️</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/001529402f.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 28: Fair\r\n\r\nFair Trade ☕️\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/001529402f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-29T02:00:25+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/29/may-photoblogging-challenge.html"
 			},
@@ -145,112 +161,112 @@
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/27/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 27: Written</p>\n\n<p><img src=\"uploads/2022/106c78dad5.jpg\" width=\"600\" height=\"491\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 27: Written\n\n<img src=\"uploads/2022/106c78dad5.jpg\" width=\"600\" height=\"491\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 27: Written</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/106c78dad5.jpg\" width=\"600\" height=\"491\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 27: Written\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/106c78dad5.jpg\" width=\"600\" height=\"491\" alt=\"\" />\n",
 				"date_published": "2022-05-27T23:40:28+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/27/may-photoblogging-challenge.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/26/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 26: Schedule</p>\n\n<p><img src=\"uploads/2022/a250175ef5.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 26: Schedule\n\n<img src=\"uploads/2022/a250175ef5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 26: Schedule</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/a250175ef5.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 26: Schedule\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/a250175ef5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-05-26T23:57:23+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/26/may-photoblogging-challenge.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/25/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 25: Mountain</p>\n\n<p>Mountain of Debris</p>\n\n<p><img src=\"uploads/2022/2ac7923e64.jpg\" width=\"337\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 25: Mountain\r\n\r\nMountain of Debris\n\n<img src=\"uploads/2022/2ac7923e64.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 25: Mountain</p>\n\n<p>Mountain of Debris</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/2ac7923e64.jpg\" width=\"337\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 25: Mountain\r\n\r\nMountain of Debris\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/2ac7923e64.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-25T23:31:05+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/25/may-photoblogging-challenge.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/24/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 24: Intricate</p>\n\n<p><img src=\"uploads/2022/0bbb8853ec.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 24: Intricate\n\n<img src=\"uploads/2022/0bbb8853ec.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 24: Intricate</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/0bbb8853ec.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 24: Intricate\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/0bbb8853ec.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-24T23:32:54+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/24/may-photoblogging-challenge.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/23/221312.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 23: Plain</p>\n\n<p><img src=\"uploads/2022/a64fa972e3.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 23: Plain\n\n<img src=\"uploads/2022/a64fa972e3.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 23: Plain</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/a64fa972e3.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 23: Plain\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/a64fa972e3.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-05-23T22:13:12+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/23/221312.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/23/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 22: Textile</p>\n\n<p><img src=\"uploads/2022/773f67f96f.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 22: Textile\n\n<img src=\"uploads/2022/773f67f96f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 22: Textile</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/773f67f96f.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 22: Textile\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/773f67f96f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-23T01:26:53+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/23/may-photoblogging-challenge.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/22/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 21: Symmetry</p>\n\n<p><img src=\"uploads/2022/a46199f52d.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 21: Symmetry\n\n<img src=\"uploads/2022/a46199f52d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 21: Symmetry</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/a46199f52d.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 21: Symmetry\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/a46199f52d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-05-22T00:04:24+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/22/may-photoblogging-challenge.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/20/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 20: Beverage</p>\n\n<p><img src=\"uploads/2022/ab27e12044.jpg\" width=\"270\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 20: Beverage\n\n<img src=\"uploads/2022/ab27e12044.jpg\" width=\"270\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 20: Beverage</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/ab27e12044.jpg\" width=\"270\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 20: Beverage\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/ab27e12044.jpg\" width=\"270\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-20T23:02:55+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/20/may-photoblogging-challenge.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/19/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 19: Indulgence</p>\n\n<p><img src=\"uploads/2022/cfc28baae5.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 19: Indulgence\n\n<img src=\"uploads/2022/cfc28baae5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 19: Indulgence</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/cfc28baae5.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 19: Indulgence\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/cfc28baae5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-05-19T23:30:19+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/19/may-photoblogging-challenge.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/18/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 18: Random</p>\n\n<p><img src=\"uploads/2022/c300455115.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 18: Random\n\n<img src=\"uploads/2022/c300455115.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 18: Random</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/c300455115.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 18: Random\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/c300455115.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-05-18T20:42:50+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/18/may-photoblogging-challenge.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/17/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 17: Hold</p>\n\n<p><img src=\"uploads/2022/6bba6bac79.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 17: Hold\n\n<img src=\"uploads/2022/6bba6bac79.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 17: Hold</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/6bba6bac79.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 17: Hold\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/6bba6bac79.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-17T23:02:32+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/17/may-photoblogging-challenge.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/16/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 16: Time</p>\n\n<p>Dusk</p>\n\n<p><img src=\"uploads/2022/fb1947528b.jpg\" width=\"600\" height=\"270\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 16: Time\r\n\r\nDusk\n\n<img src=\"uploads/2022/fb1947528b.jpg\" width=\"600\" height=\"270\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 16: Time</p>\n\n<p>Dusk</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/fb1947528b.jpg\" width=\"600\" height=\"270\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 16: Time\r\n\r\nDusk\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/fb1947528b.jpg\" width=\"600\" height=\"270\" alt=\"\" />\n",
 				"date_published": "2022-05-16T23:10:52+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/16/may-photoblogging-challenge.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/15/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 15: Clouds</p>\n\n<p><img src=\"uploads/2022/8f06b038f4.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 15: Clouds\n\n<img src=\"uploads/2022/8f06b038f4.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 15: Clouds</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/8f06b038f4.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 15: Clouds\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/8f06b038f4.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-05-15T22:24:38+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/15/may-photoblogging-challenge.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/14/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 14: Fence</p>\n\n<p><img src=\"uploads/2022/98e0879de3.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 14: Fence\n\n<img src=\"uploads/2022/98e0879de3.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 14: Fence</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/98e0879de3.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 14: Fence\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/98e0879de3.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-14T16:42:16+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/14/may-photoblogging-challenge.html"
 			},
@@ -265,16 +281,16 @@
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/12/223439.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 12: Tranquility</p>\n\n<p><img src=\"uploads/2022/6078d685e7.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 12: Tranquility\n\n<img src=\"uploads/2022/6078d685e7.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 12: Tranquility</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/6078d685e7.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 12: Tranquility\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/6078d685e7.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-05-12T22:34:39+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/12/223439.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/12/192722.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 11: Maroon</p>\n\n<p><img src=\"uploads/2022/6ee260b51a.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 11: Maroon\n\n<img src=\"uploads/2022/6ee260b51a.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 11: Maroon</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/6ee260b51a.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 11: Maroon\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/6ee260b51a.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-12T19:27:22+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/12/192722.html"
 			},
@@ -289,48 +305,48 @@
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/12/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 10: Pot</p>\n\n<p><img src=\"uploads/2022/71860d621b.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 10: Pot\n\n<img src=\"uploads/2022/71860d621b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 10: Pot</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/71860d621b.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 10: Pot\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/71860d621b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-12T01:32:33+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/12/may-photoblogging-challenge.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/10/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 9: Bloom</p>\n\n<p><img src=\"uploads/2022/7769662b41.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 9: Bloom\n\n<img src=\"uploads/2022/7769662b41.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 9: Bloom</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/7769662b41.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 9: Bloom\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/7769662b41.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-10T14:49:43+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/10/may-photoblogging-challenge.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/09/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 8: Union</p>\n\n<p>A union of cat and plant</p>\n\n<p><img src=\"uploads/2022/213a0af977.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 8: Union\n\nA union of cat and plant\n\n<img src=\"uploads/2022/213a0af977.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 8: Union</p>\n\n<p>A union of cat and plant</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/213a0af977.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 8: Union\n\nA union of cat and plant\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/213a0af977.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-09T23:53:30+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/09/may-photoblogging-challenge.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/08/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 7: Park</p>\n\n<p>Kittens in the park</p>\n\n<p><img src=\"uploads/2022/d663528bee.jpg\" width=\"600\" height=\"361\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 7: Park\r\n\r\nKittens in the park\n\n<img src=\"uploads/2022/d663528bee.jpg\" width=\"600\" height=\"361\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 7: Park</p>\n\n<p>Kittens in the park</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/d663528bee.jpg\" width=\"600\" height=\"361\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 7: Park\r\n\r\nKittens in the park\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/d663528bee.jpg\" width=\"600\" height=\"361\" alt=\"\" />\n",
 				"date_published": "2022-05-08T14:02:31+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/08/may-photoblogging-challenge.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/06/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 6: Silhouette</p>\n\n<p><img src=\"uploads/2022/a4cc84b9f0.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 6: Silhouette\n\n<img src=\"uploads/2022/a4cc84b9f0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 6: Silhouette</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/a4cc84b9f0.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 6: Silhouette\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/a4cc84b9f0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-05-06T22:21:11+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/06/may-photoblogging-challenge.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/05/235904.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 5: Earth</p>\n\n<p>Found this picture of an earth mover in my camera roll. I don&rsquo;t remember taking the picture but I do like the framing.</p>\n\n<p><img src=\"uploads/2022/f09515b81b.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 5: Earth\r\n\r\nFound this picture of an earth mover in my camera roll. I don't remember taking the picture but I do like the framing.\n\n<img src=\"uploads/2022/f09515b81b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 5: Earth</p>\n\n<p>Found this picture of an earth mover in my camera roll. I don&rsquo;t remember taking the picture but I do like the framing.</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/f09515b81b.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 5: Earth\r\n\r\nFound this picture of an earth mover in my camera roll. I don't remember taking the picture but I do like the framing.\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/f09515b81b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-05-05T23:59:04+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/05/235904.html"
 			},
@@ -345,32 +361,32 @@
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/05/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 4: Thorny</p>\n\n<p><img src=\"uploads/2022/5cffbaa817.jpg\" width=\"560\" height=\"565\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 4: Thorny\n\n<img src=\"uploads/2022/5cffbaa817.jpg\" width=\"560\" height=\"565\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 4: Thorny</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/5cffbaa817.jpg\" width=\"560\" height=\"565\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 4: Thorny\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/5cffbaa817.jpg\" width=\"560\" height=\"565\" alt=\"\" />\n",
 				"date_published": "2022-05-05T00:34:32+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/05/may-photoblogging-challenge.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/04/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 3: Experimental</p>\n\n<p><img src=\"uploads/2022/3b9804a8a3.jpg\" width=\"443\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 3: Experimental\n\n<img src=\"uploads/2022/3b9804a8a3.jpg\" width=\"443\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 3: Experimental</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/3b9804a8a3.jpg\" width=\"443\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 3: Experimental\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/3b9804a8a3.jpg\" width=\"443\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-04T11:31:33+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/04/may-photoblogging-challenge.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/02/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 2: Photo</p>\n\n<p><img src=\"uploads/2022/24a4668d2f.jpg\" width=\"600\" height=\"541\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 2: Photo\n\n<img src=\"uploads/2022/24a4668d2f.jpg\" width=\"600\" height=\"541\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 2: Photo</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/24a4668d2f.jpg\" width=\"600\" height=\"541\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 2: Photo\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/24a4668d2f.jpg\" width=\"600\" height=\"541\" alt=\"\" />\n",
 				"date_published": "2022-05-02T23:11:40+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/02/may-photoblogging-challenge.html"
 			},
 			{
 				"id": "http://sarvagnan.micro.blog/2022/05/01/may-photoblogging-challenge.html",
 				
-				"content_html": "<p>May Photoblogging Challenge, Day 1: Switch</p>\n\n<p><img src=\"uploads/2022/eed5cbf0b1.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "May Photoblogging Challenge, Day 1: Switch\n\n<img src=\"uploads/2022/eed5cbf0b1.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>May Photoblogging Challenge, Day 1: Switch</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2022/eed5cbf0b1.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "May Photoblogging Challenge, Day 1: Switch\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/eed5cbf0b1.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-01T23:28:17+05:30",
 				"url": "https://blog.sarvagnan.com/2022/05/01/may-photoblogging-challenge.html"
 			},
@@ -465,8 +481,8 @@
 			{
 				"id": "http://sarvagnan.micro.blog/2022/02/08/151835.html",
 				
-				"content_html": "<p><img src=\"uploads/2022/65eda8231a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2022/65eda8231a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://blog.sarvagnan.com/uploads/2022/65eda8231a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://blog.sarvagnan.com/uploads/2022/65eda8231a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-02-08T15:18:35+05:30",
 				"url": "https://blog.sarvagnan.com/2022/02/08/151835.html"
 			},
@@ -481,8 +497,8 @@
 			{
 				"id": "http://sarvagnan.micro.blog/2021/10/12/154535.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/81699e4646.jpg\" width=\"600\" height=\"270\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/81699e4646.jpg\" width=\"600\" height=\"270\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://blog.sarvagnan.com/uploads/2021/81699e4646.jpg\" width=\"600\" height=\"270\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://blog.sarvagnan.com/uploads/2021/81699e4646.jpg\" width=\"600\" height=\"270\" alt=\"\" />\n",
 				"date_published": "2021-10-12T15:45:35+05:30",
 				"url": "https://blog.sarvagnan.com/2021/10/12/154535.html"
 			},
@@ -737,8 +753,8 @@
 			{
 				"id": "http://sarvagnan.micro.blog/2021/03/18/as-a-duckduckgo.html",
 				
-				"content_html": "<p>As a DuckDuckGo user, I don&rsquo;t see much of Google on a day to day basis. However, I found today that they seem to show key moments in YouTube videos even if the video does not have chapters. I&rsquo;m not sure how they&rsquo;re doing this but it is super interesting to see.</p>\n\n<p><img src=\"uploads/2021/482b6f40b4.png\" width=\"600\" height=\"222\" alt=\"Screenshot of Google Search Results Showing Key Moments in a YouTube Video\" /></p>\n",
-				"content_text": "As a DuckDuckGo user, I don't see much of Google on a day to day basis. However, I found today that they seem to show key moments in YouTube videos even if the video does not have chapters. I'm not sure how they're doing this but it is super interesting to see.\n\n<img src=\"uploads/2021/482b6f40b4.png\" width=\"600\" height=\"222\" alt=\"Screenshot of Google Search Results Showing Key Moments in a YouTube Video\" />\n",
+				"content_html": "<p>As a DuckDuckGo user, I don&rsquo;t see much of Google on a day to day basis. However, I found today that they seem to show key moments in YouTube videos even if the video does not have chapters. I&rsquo;m not sure how they&rsquo;re doing this but it is super interesting to see.</p>\n\n<p><img src=\"https://blog.sarvagnan.com/uploads/2021/482b6f40b4.png\" width=\"600\" height=\"222\" alt=\"Screenshot of Google Search Results Showing Key Moments in a YouTube Video\" /></p>\n",
+				"content_text": "As a DuckDuckGo user, I don't see much of Google on a day to day basis. However, I found today that they seem to show key moments in YouTube videos even if the video does not have chapters. I'm not sure how they're doing this but it is super interesting to see.\n\n<img src=\"https://blog.sarvagnan.com/uploads/2021/482b6f40b4.png\" width=\"600\" height=\"222\" alt=\"Screenshot of Google Search Results Showing Key Moments in a YouTube Video\" />\n",
 				"date_published": "2021-03-18T13:29:18+05:30",
 				"url": "https://blog.sarvagnan.com/2021/03/18/as-a-duckduckgo.html"
 			},
@@ -856,8 +872,8 @@
 			{
 				"id": "http://sarvagnan.micro.blog/2020/07/23/dates-cake.html",
 				
-				"content_html": "<p>Dates cake</p>\n\n<p><img src=\"uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Dates cake\n\n<img src=\"uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Dates cake</p>\n\n<p><img src=\"https://sarvagnan.micro.blog/uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Dates cake\n\n<img src=\"https://sarvagnan.micro.blog/uploads/2020/a3b6ea25cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-23T00:23:27+05:30",
 				"url": "https://blog.sarvagnan.com/2020/07/23/dates-cake.html"
 			},
@@ -872,8 +888,8 @@
 			{
 				"id": "http://sarvagnan.micro.blog/2020/07/22/sponge-cake.html",
 				
-				"content_html": "<p>Sponge cake</p>\n\n<p><img src=\"uploads/2020/d43e5223a1.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Sponge cake\n\n<img src=\"uploads/2020/d43e5223a1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Sponge cake</p>\n\n<p><img src=\"https://sarvagnan.micro.blog/uploads/2020/d43e5223a1.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Sponge cake\n\n<img src=\"https://sarvagnan.micro.blog/uploads/2020/d43e5223a1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-07-22T00:25:00+05:30",
 				"url": "https://blog.sarvagnan.com/2020/07/22/sponge-cake.html",
 				"tags": ["Baking"]
